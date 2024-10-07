@@ -63,9 +63,3 @@ def dh_upload_img(aftersale_reason, img_file, aftersale_info = '', Internal_Note
 # dh_query_aftersale()
 # print(dh_query_aftersale())
 
-
-
-page = WebPage('d')
-
-
-print(customer_dh_dict['发错颜色'])
